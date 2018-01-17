@@ -19,6 +19,10 @@ body {
   
   main {
     background-color: yellow;
+    margin-bottom: 20px;
+    margin: 30px;
+    padding: 30px;
+    border: 40px;
   }
   
   header {
@@ -26,6 +30,6 @@ body {
   }
   
   footer {
-  
+      margin-top: 15px;
   }
   
